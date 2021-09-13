@@ -1,0 +1,28 @@
+.big {
+  display: flex;
+  justify-content: space-between;
+}
+
+.first {
+  height: 200px;
+  width: 200px;
+  background-color: blueviolet;
+}
+
+.second {
+  height: 200px;
+  width: 200px;
+  background-color: darkgreen;
+}
+
+.third {
+  height: 200px;
+  width: 200px;
+  background-color: yellowgreen;
+}
+
+.fourth {
+  height: 200px;
+  width: 200px;
+  background-color: olive;
+}
